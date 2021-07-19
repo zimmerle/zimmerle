@@ -8,7 +8,7 @@
 
 
 <a href="mailto:felipe@zimmerle.org">
-  <img align="right" src="https://img.shields.io/badge/-felipe@zimmerle.org-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felipe@zimmerle.org)">
+  <img align="right" src="https://img.shields.io/badge/-felipe@felipe.wtf-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felipe@felipe.wtf)">
 </a>
 
 <a href="https://www.strava.com/athletes/3145667">
