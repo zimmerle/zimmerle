@@ -1,4 +1,4 @@
-![](github2.png)
+![](github-transparent.gif)
 
 
 
